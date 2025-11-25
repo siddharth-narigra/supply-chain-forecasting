@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+.venv/
+
+# Data files (too large for GitHub)
+data/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# MLflow
+mlruns/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

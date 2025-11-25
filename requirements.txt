@@ -1,0 +1,32 @@
+# Supply Chain Analytics and Demand Forecasting - Dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+folium>=0.14.0
+geopandas>=0.13.0
+squarify>=0.4.3
+shapely>=2.0.0
+python-dotenv>=1.0.0
+
+# Nixtla forecasting stack
+statsforecast>=1.7.0
+nixtla>=0.5.0
+datasetsforecast>=0.0.8
+utilsforecast>=0.1.0
+
+# Statistical analysis
+statsmodels>=0.14.0
+
+# ML experiment tracking
+mlflow>=2.10.0
+mlflavors>=0.1.0
+scikit-learn>=1.3.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.25.0
+nbformat>=5.9.0
+
+# For plotly charts in notebook
+plotly>=5.18.0
+
